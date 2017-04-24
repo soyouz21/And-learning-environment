@@ -1,40 +1,54 @@
-# Environnement optimisé pour l'apprentissage
+# Bienvenue chez
 
-Meta-Projet courant durant la prairie autour de la question *Qu'est-ce qu'un environnement d'apprentissage optimisé?*
+![L](becode.gif)
 
-Sur base du livret de l’apprenant et des post-it, construisez un site de présentation de Becode comme *environnement optimisé pour l’apprentissage*, en HTML, CSS et Javascript (jQuery).
+## Qu'est-ce qu'un environnement d'apprentissage optimisé ?
+
+Chez BeCode, nous faisons en sorte ne pas être une école comme les autres. Les méthodes d'apprentissages ne sont pas ordinaires, la relation "professeur/élève" étant fortement différente de l'enseignement traditionnel. Concrètement, il s'agit de communiquer énormément et surtout, de collaborer.
+
+## Communication
+
+Notre force chez BeCode, est de représenter une entreprise modèle grâce au partage de soi, de nos connaissances et de nos expériences de vies.
+Nos différents projets nous poussent à *communiquer* sans arrêt, **_avec fun et interaction._**
+
+> _La communication consiste à comprendre celui qui écoute (Robert Sabatier)_
+
+## Comment communique-t-on et travaillons-nous chez BeCode ?
+
+La communication est la base de la pédagogie active.
+ 
+1. La pédagogie active est au centre même de la formation. 
+  *  L'apprenti est poussé à trouver par lui-même les solutions aux problèmes rencontrés.
+  *  La pratique est au coeur même de la formation, l'étudiant doit pouvoir comprendre, assimiler et réutiliser ce qu'il a vu.
+  *  Le groupe est poussé à communiquer et à échanger le maximum.
+
+2. Via des projets
+
+3. Via un auto apprentissage
+
+## Quelles sont les valeurs qui sont pronếes au sein de BeCode ?
+
+* L'entraide, le partage 
+* L'autonomie, aller au fonds des choses
+* La confiance en soi
 
 ## Objectifs
-- acquérir une première expérience de pédagogie par projet
-- préparation de contenu pour le futur redesign du site de Becode
-- auto-évaluer ses skills en HTML, CSS, Javascript
-- comprendre et utiliser Git dans sa pratique professionnelle
 
-## Projet 1: le contenu
+Le but principal de la formation est de devenir Developpeur Web indépendant et qualifié. A côté de cela, des objectifs sont réalisés au quotidien lors des épreuves ou travaux ( individuel ou de groupes ). Par exemple, l'objectif du dépassement de soi et la résolution de problèmes par soi-même.
 
-### objectif
-- apprendre le [MarkDown](https://guides.github.com/features/mastering-markdown/) et comprendre à quoi il sert
-- se préparer à l'approche de structuration du contenu
-- jeter les bases du projet suivant : le HTML.
 
-### Instruction
-Sur Github, fork le projet "[learning-environment](https://github.com/becodeorg/And-learning-environment)" sur un repo d'un membre de ton groupe.
-- Utilise le système des branches de Git pour travailler collaborativement ce contenu.
--  Pour le contenu en lui-même, rédige-le dans un (ou plusieurs) document(s) en MarkDown.
+Suivez nos aventures et progrès en cliquant [ici](www.becode.org)
 
-### Critères minimum
-- une liste à puces
-- une liste numérotée
-- 3 niveaux de titres et sous-titres
-- des liens
-- insertion d’une image statique
-- insertion d’une image animée
-- [UX](https://www.youtube.com/watch?v=Ovj4hFxko7c): que l’information transmise / l’histoire racontée soit intéressante, pertinente, correcte et originale (dans le sens “personnel”, pas un copier-coller).
 
-### Critères de perfectionnement
-- listes à puce imbriquées (donc plusieurs niveaux hiérarchiques)
-- listes numérotées imbriquées
-- publication de [ce bout de code](http://stackoverflow.com/a/1701672/53960) de manière formattée.
- 
-### Deadline
-Jeudi 16h30.
+![albert](albert-einstein-520.jpg)
+Citation :
+  > "La vie, c'est comme une bicyclette, il faut avancer pour ne pas perdre l'équilibre", Albert Einstein
+
+
+
+<script type="text/javascript" >
+  alert("La vie, c'est comme une bicyclette, il faut avancer pour ne pas perdre l'équilibre", Albert Einstein");
+</script>
+
+
+
